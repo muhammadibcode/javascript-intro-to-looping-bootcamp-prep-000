@@ -10,4 +10,9 @@ for (var i = 0; i < 25; i++) {
   return looparray;
 }
 
-console.log(Math.random())
+function whileLoop(i) {
+    while (i != 0) {
+       i--;
+       console.log(i);
+                   }
+}
