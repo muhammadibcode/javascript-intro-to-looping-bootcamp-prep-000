@@ -14,5 +14,6 @@ function whileLoop(i) {
     while (i != 0) {
        i--;
        console.log(i);
-                   }
-}
+           }
+          return "done";
+        }
